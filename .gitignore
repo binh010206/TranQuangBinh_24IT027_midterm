@@ -1,0 +1,14 @@
+# Compiled output
+myls
+*.o
+
+# Editor temp files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db
